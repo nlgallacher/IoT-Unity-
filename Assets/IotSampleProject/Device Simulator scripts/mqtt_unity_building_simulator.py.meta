@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e13db101f99c433ba04ecf2c0930983
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Device Simulator scripts/mqtt_unity_building_simulator.py
+  uploadId: 776575

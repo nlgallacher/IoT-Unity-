@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e44b3af17e048cb4d9c29cd737adb114
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/IoT Sample Scene/NavMesh-Level4_Floor.asset
+  uploadId: 776575

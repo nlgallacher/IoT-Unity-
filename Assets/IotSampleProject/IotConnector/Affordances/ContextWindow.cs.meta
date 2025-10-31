@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b1629e574832b4288b4cd2fd3b37bce7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Affordances/ContextWindow.cs
+  uploadId: 776575

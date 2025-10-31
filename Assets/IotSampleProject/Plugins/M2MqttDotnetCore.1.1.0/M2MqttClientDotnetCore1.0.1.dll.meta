@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 18c1046dbe5a24b02b5109546125eb95
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/M2MqttDotnetCore.1.1.0/M2MqttClientDotnetCore1.0.1.dll
+  uploadId: 776575

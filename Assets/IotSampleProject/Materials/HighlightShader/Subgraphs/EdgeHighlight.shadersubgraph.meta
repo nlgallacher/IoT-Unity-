@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3167e2a6e0f4099428078b1f37bd6322
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Materials/HighlightShader/Subgraphs/EdgeHighlight.shadersubgraph
+  uploadId: 776575

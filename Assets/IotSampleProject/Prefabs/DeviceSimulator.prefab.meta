@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e86d9be4b332448888630cf16ef8610f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Prefabs/DeviceSimulator.prefab
+  uploadId: 776575

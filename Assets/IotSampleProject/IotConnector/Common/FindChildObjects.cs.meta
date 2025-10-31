@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ea3718ae87ca54866967cd1113abcf3b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Common/FindChildObjects.cs
+  uploadId: 776575

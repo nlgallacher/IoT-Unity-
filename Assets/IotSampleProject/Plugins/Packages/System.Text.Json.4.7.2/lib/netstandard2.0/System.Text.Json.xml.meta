@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5c4d4d6bd3d4ca45b67b18f4feb26f9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Text.Json.4.7.2/lib/netstandard2.0/System.Text.Json.xml
+  uploadId: 776575

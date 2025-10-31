@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58cad4e0719db8646b4ea348da94cca4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Memory.Data.1.0.2/CHANGELOG.md
+  uploadId: 776575

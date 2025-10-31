@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aab09a2816b91404da608a987d51af42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Prefabs/BrightonOffice.prefab
+  uploadId: 776575

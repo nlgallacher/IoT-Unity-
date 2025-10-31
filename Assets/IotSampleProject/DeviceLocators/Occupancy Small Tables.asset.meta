@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5b4141f05d884cb9bdb252c83fef5e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/DeviceLocators/Occupancy Small Tables.asset
+  uploadId: 776575

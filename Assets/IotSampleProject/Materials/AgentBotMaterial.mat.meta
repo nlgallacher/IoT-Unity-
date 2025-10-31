@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0173e92022f2154284dd0a0dc2e9145
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Materials/AgentBotMaterial.mat
+  uploadId: 776575

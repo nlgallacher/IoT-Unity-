@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cebc099c9b8e102428aee11a051f2ea7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.ClientModel.1.0.0/lib/netstandard2.0/System.ClientModel.xml
+  uploadId: 776575

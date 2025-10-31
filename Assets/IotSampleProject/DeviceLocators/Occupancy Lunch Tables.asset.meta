@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f974bec3b14363f49a2f1a20afb42869
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/DeviceLocators/Occupancy Lunch Tables.asset
+  uploadId: 776575

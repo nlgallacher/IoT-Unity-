@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce0543f5bff8f4114b785467783bbb9a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Device Simulator scripts/send_single_message_to_mqtt.py
+  uploadId: 776575

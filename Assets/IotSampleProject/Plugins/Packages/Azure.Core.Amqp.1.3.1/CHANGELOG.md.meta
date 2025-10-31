@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40777bf7d080a514ca6b187816fe73db
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Azure.Core.Amqp.1.3.1/CHANGELOG.md
+  uploadId: 776575

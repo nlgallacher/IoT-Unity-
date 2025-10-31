@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8f4f38c91ceab841bba1a4cdd55c41c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/NuGet/Editor/NuGetForUnity.PluginAPI.xml
+  uploadId: 776575

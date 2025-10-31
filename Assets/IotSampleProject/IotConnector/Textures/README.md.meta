@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35f058df67d994cd6ab48fccc2283279
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Textures/README.md
+  uploadId: 776575

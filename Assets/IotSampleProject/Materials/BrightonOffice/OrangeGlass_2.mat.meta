@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 569510e40b6883246af2d0b1d14938b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Materials/BrightonOffice/OrangeGlass_2.mat
+  uploadId: 776575

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f975be2ffcf75945ab7b0bf13fb21e2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Azure.Messaging.EventHubs.5.11.5/Azure.Messaging.EventHubs.nuspec
+  uploadId: 776575

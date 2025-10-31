@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ee198ace15552f841a243cb1f2f0595a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Devices/Thermostat.cs
+  uploadId: 776575

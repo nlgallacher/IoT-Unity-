@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e812f4a54b06c22469a786a1eb115868
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Diagnostics.DiagnosticSource.6.0.1/LICENSE.TXT
+  uploadId: 776575

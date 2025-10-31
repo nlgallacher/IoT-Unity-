@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a54bf5e46244c64b88e35c29228ccdb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/DeviceLocators/HAVC Sensors.asset
+  uploadId: 776575

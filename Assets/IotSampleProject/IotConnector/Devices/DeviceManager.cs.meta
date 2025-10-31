@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 056b96c8b57ca43c0aaf38269f2b5b4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Devices/DeviceManager.cs
+  uploadId: 776575

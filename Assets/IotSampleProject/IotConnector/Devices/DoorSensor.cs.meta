@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 623593b6a16fdc34bad0c195ec0c0108
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Devices/DoorSensor.cs
+  uploadId: 776575

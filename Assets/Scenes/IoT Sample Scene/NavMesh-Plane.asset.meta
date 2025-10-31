@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6233b747aeba564c989ae11745c8b96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/IoT Sample Scene/NavMesh-Plane.asset
+  uploadId: 776575

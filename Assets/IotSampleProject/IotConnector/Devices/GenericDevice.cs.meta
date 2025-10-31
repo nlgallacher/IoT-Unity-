@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ae6c77e7068894fa7b8bfdaaad077864
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Devices/GenericDevice.cs
+  uploadId: 776575

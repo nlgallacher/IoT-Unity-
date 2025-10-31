@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb6346f1d3327c44eb15215094e45611
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Text.Json.4.7.2/System.Text.Json.nuspec
+  uploadId: 776575

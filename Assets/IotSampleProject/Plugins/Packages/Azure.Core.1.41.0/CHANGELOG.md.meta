@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76b78eef7ac6f374aabd0315e67f86a1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Azure.Core.1.41.0/CHANGELOG.md
+  uploadId: 776575

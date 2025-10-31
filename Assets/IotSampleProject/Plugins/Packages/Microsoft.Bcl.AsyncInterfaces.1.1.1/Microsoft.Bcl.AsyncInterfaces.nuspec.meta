@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e5a395955b52f048ae4043ee45137cb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Microsoft.Bcl.AsyncInterfaces.1.1.1/Microsoft.Bcl.AsyncInterfaces.nuspec
+  uploadId: 776575

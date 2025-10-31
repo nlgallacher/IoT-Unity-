@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfd40d593b58eaf4ba9c4c092583ed84
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Text.Encodings.Web.4.7.2/System.Text.Encodings.Web.nuspec
+  uploadId: 776575

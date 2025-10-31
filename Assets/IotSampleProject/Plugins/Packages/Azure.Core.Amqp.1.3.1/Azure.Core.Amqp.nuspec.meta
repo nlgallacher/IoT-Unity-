@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3901ce7fbba261408cc860ab2b77754
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Azure.Core.Amqp.1.3.1/Azure.Core.Amqp.nuspec
+  uploadId: 776575

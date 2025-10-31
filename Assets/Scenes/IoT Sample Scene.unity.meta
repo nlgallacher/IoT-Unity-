@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 860b4c0c7ef2044c7a845bf0100cb89c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/IoT Sample Scene.unity
+  uploadId: 776575

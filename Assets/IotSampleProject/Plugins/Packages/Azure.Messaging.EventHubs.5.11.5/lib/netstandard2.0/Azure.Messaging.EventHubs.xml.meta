@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 453824da8901c2f40a26b082668b235a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/Azure.Messaging.EventHubs.5.11.5/lib/netstandard2.0/Azure.Messaging.EventHubs.xml
+  uploadId: 776575

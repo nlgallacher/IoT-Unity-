@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78390bc022283c34f8f9f449bd8db4e4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Threading.Channels.4.7.1/THIRD-PARTY-NOTICES.TXT
+  uploadId: 776575

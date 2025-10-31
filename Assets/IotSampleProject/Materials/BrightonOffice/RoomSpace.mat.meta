@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9e5f5b2230dcea44a97075aadbb5c0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Materials/BrightonOffice/RoomSpace.mat
+  uploadId: 776575

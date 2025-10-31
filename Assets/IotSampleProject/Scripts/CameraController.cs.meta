@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a283f709b6cfae146b58dcaafb8729b6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Scripts/CameraController.cs
+  uploadId: 776575

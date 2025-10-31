@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8918929d1dc74ca4d8a1ba15e2d416d2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Diagnostics.DiagnosticSource.6.0.1/System.Diagnostics.DiagnosticSource.nuspec
+  uploadId: 776575

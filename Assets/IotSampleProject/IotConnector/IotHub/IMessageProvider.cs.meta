@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 269211e9f6ab04e3f8fe485a9985bfc7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/IotHub/IMessageProvider.cs
+  uploadId: 776575

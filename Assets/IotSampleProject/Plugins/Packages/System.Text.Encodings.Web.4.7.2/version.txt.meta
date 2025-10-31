@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc2eedd9ab2400547865e58fe2c6412d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Text.Encodings.Web.4.7.2/version.txt
+  uploadId: 776575

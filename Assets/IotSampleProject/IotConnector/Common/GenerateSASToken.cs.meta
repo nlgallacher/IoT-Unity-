@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0812ac16b5a8e6a409eb85d1969bd1a4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/Common/GenerateSASToken.cs
+  uploadId: 776575

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 126018e4bc3df4502aa11713cc004a31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/IotConnector/IotHub/MessageBus/MessengerCheck.cs
+  uploadId: 776575

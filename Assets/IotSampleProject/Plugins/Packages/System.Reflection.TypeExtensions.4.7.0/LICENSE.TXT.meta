@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3de2de6773ffa5c4a9364fba3af14d8e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326687
+  packageName: IoT Sample Project
+  packageVersion: 1.0
+  assetPath: Assets/IotSampleProject/Plugins/Packages/System.Reflection.TypeExtensions.4.7.0/LICENSE.TXT
+  uploadId: 776575
